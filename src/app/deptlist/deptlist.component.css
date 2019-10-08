@@ -1,0 +1,13 @@
+
+
+thead{
+    background-color: orchid;
+}
+tbody{
+    background-color: aqua;
+}
+
+tr :hover{
+    background-color: blue;
+    color: aliceblue;
+}
